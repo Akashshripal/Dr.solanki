@@ -1,0 +1,3 @@
+[13-Dec-2023 04:28:50 America/Chicago] PHP Warning:  Undefined array key "news_name" in /home2/yourchoicewebsit/public_html/solanki/submit.php on line 2
+[13-Dec-2023 04:28:50 America/Chicago] PHP Warning:  Undefined array key "subject" in /home2/yourchoicewebsit/public_html/solanki/submit.php on line 34
+[13-Dec-2023 04:28:51 America/Chicago] PHP Warning:  Undefined array key "app_fname" in /home2/yourchoicewebsit/public_html/solanki/submit.php on line 56

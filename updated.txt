@@ -1,0 +1,191 @@
+Improved code quality.
+Fixed Accent problem.
+Used google fonts.
+Updated carousels and made touchenabled.
+Reduced http requests.
+Reduced CSS/JS files.
+Removed broken urls.
+Resolved jQuery issue.
+Added fixed header for all navigations.
+Added go to top button.
+Added favicon.
+Added Loader.
+Added footer social widget.
+Improved Mobile Navigations.
+Optimized mobiles(responsive) to provide better user experience.
+Updated google maps.
+Updated counters.
+Updated gallery.
+Updated team description popup.
+Removed isotop and used jQuery mixitup.
+
+
+<section class="container our-team">
+				<h2 class="light bordered">Our <span>Team</span></h2>
+
+				<div class="row mt-5 mb-5  about-cards" data-aos="fade-up" data-aos-duration="2000">
+					<div class="col-lg-4">
+
+						<div class="card1">
+							<div class="img-container">
+								<img src="images/ourteam/chairman-narpat.jpg" alt="" />
+							</div>
+							<div class="card-details">
+								<h2>Dr. Narpat Solanki </h2>
+								<p>Chief Surgeon - Cataract and Refractive Surgeon (MS (OPHTH))
+									<br />
+									<br />
+									For more than three decades Dr. Solanki Eye Hospital (DSEH) has been serving people
+									from all walks of life with exceptional eye care. From a humble clinic, we have
+									grown to a hospital serving people not only from the city of Bengaluru but across
+									the country and beyond the shores.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4">
+
+						<div class="card1">
+							<div class="img-container">
+								<img src="images/ourteam/dr-muralidhara.jpg" alt="" />
+							</div>
+							<div class="card-details">
+								<h2>Dr. M. Muralidhara Rao </h2>
+								<p>MBBS, MS, DOMS, FRCS (ED)
+									Chief Surgeon & Medical Director, Dr. Solanki Eye Hospital
+									<br />
+									<br />
+									Specializes in Phaco, Small Incision Cataract Surgery, General Ophthalmology,
+									Glaucoma, & Vitrectomy.
+								</p>
+
+
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="card1">
+							<div class="img-container">
+								<img src="images/ourteam/dr-bhargav.jpg" alt="" />
+							</div>
+							<div class="card-details">
+								<h2>Dr. Sribhargava Natesh</h2>
+								<p>
+									MBBS, DOMS, FMRF, ICO
+									Consultant - Vitreoretinal,
+									Neuro-Ophthalmology & Ocular Oncology
+
+									Dr. Natesh specializes in Vitreoretinal, Uveitis, Neuro-Ophthalmology, Ocular
+									Oncology, Retinopathy of Prematurity and Trauma.
+								</p>
+
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="card1">
+							<div class="img-container">
+								<img src="images/ourteam/dr-sundaram.jpg" alt="" />
+							</div>
+							<div class="card-details">
+								<h2>Dr. S.M.Sundaram</h2>
+								<p>
+									MBBS, DOMS <br />
+									Consultant Ophthalmologist
+									<br />
+									Dr. Sundaram specializes in Phacoemulsification and Small Incision Cataract surgery.
+								</p>
+
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="card1">
+							<div class="img-container">
+								<img src=images/ourteam/dr-priyank.jpg alt="" />
+							</div>
+							<div class="card-details">
+								<h2>Dr. Priyank Solanki</h2>
+								<p>
+									MBBS, DOMS, DNB <br />
+									Cataract & Refractive Surgeon, General Ophthalmology,
+									Assistant Medical Director, Dr. Solanki Eye Hospital
+									<br />
+									<br />
+									Specializes in Cataract & Refractive Department and a keen interest in Training.
+								</p>
+							</div>
+						</div>
+					</div>
+					
+					<div class="col-lg-4">
+						<div class="card1">
+							<div class="img-container">
+								<img src="images/ourteam/dr-sonal.jpg" alt="" />
+							</div>
+							<div class="card-details">
+								<h2>Dr. Sonal G Chhaya </h2>
+								<p>
+									Glaucoma Services, (DOMS, DNB)
+									<br />
+									Dr. Sonal specializes in Anterior segment surgeries with a special interest in
+									Glaucoma.
+								</p>
+
+							</div>
+						</div>
+					</div>
+					
+					<div class="col-lg-4">
+						<div class="card1">
+							<div class="img-container">
+								<img src="images/ourteam/dr-sarika-ramachandran.jpg" alt="" />
+							</div>
+							<div class="card-details">
+								<h2>Dr. Sarika Ramachandran</h2>
+								<p>
+									MBBS, DNB, FPRS – Consultant Ophthalmologist
+									<br />
+									Her surgical skills include Manual and Phacoemulsification cataract surgeries,
+									Pterygium surgery, Corneal laser refractive surgery, Intra-ocular phakic lens
+									implantation, Collagen crosslinking, Dacryocystectomy.
+									She has also co-authored publications in national and international journals.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="card1">
+							<div class="img-container">
+								<img src="images/ourteam/dr-mamta.jpg" alt="" />
+							</div>
+							<div class="card-details">
+								<h2>Dr. Mamta Solanki</h2>
+								<p>
+									Anaesthetist (MBBS, DA)
+									<br />
+									Dr. Mamta oversees the administration of DESH with a special focus on the NABH
+									policies and guidelines.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="card1">
+							<div class="img-container">
+								<img src="images/ourteam/dr-mahanthes.jpg" alt="" />
+							</div>
+							<div class="card-details">
+								<h2>Mahantesh B </h2>
+								<p>
+									B.Sc, Optometry
+									<br />
+									Has over 13 years of experience working as an Optometrist with specialization in
+									specialty contact lenses, ocular prosthetics, and Low Vision Aids (LVA).
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</section>
